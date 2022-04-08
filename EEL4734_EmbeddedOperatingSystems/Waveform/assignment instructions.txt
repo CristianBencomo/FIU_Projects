@@ -1,0 +1,3 @@
+Please submit the source code associated with your solution in developing a program that permits entering 0's at a constant rate (1 sec) and 1's when a key is pressed. This should run for a maximum amount associated with command-line arguments.
+
+Example)   >Wave  data.dat 10000    where Wave is the executable, data.dat a data file and 10000 the number of samples

@@ -1,0 +1,135 @@
+
+
+Z-axis dimmension location: 0
+2   7   
+7   5   
+
+
+
+
+Z-axis dimmension location: 1
+3   7   
+6   9   
+
+
+
+
+Looking for new input values...
+
+
+Z-axis dimmension location: 0
+2   7   
+7   5   
+3   7   
+6   9   
+4   4   
+4   7   
+1   2   
+
+
+
+
+Z-axis dimmension location: 1
+2   6   
+2   7   
+5   1   
+2   8   
+2   5   
+6   1   
+1   6   
+
+
+
+
+Z-axis dimmension location: 2
+3   8   
+7   2   
+3   3   
+6   6   
+9   2   
+3   2   
+6   4   
+
+
+
+
+Z-axis dimmension location: 3
+6   4   
+5   5   
+9   5   
+2   4   
+3   3   
+1   4   
+7   6   
+
+
+
+
+Looking for new input values...
+
+
+Z-axis dimmension location: 0
+2   7   7   5   3   7   
+6   9   4   4   4   7   
+1   2   2   6   2   7   
+5   1   2   8   2   5   
+
+
+
+
+Z-axis dimmension location: 1
+6   1   1   6   3   8   
+7   2   3   3   6   6   
+9   2   3   2   6   4   
+6   4   5   5   9   5   
+
+
+
+
+Z-axis dimmension location: 2
+2   4   3   3   1   4   
+7   6   4   5   2   5   
+4   7   6   6   9   3   
+9   6   4   9   5   7   
+
+
+
+
+Z-axis dimmension location: 3
+4   9   1   6   4   9   
+1   6   4   3   6   2   
+6   2   7   8   6   6   
+3   9   3   8   6   9   
+
+
+
+
+Z-axis dimmension location: 4
+8   3   6   3   3   8   
+9   4   7   8   9   2   
+7   1   5   8   1   8   
+9   5   9   4   3   6   
+
+
+
+
+Z-axis dimmension location: 5
+1   3   3   3   8   6   
+1   7   9   4   7   9   
+2   6   3   7   4   9   
+6   9   7   1   7   8   
+
+
+
+
+Z-axis dimmension location: 6
+8   5   1   6   8   1   
+2   6   3   4   7   1   
+1   7   7   7   1   4   
+6   9   8   6   6   9   
+
+
+
+
+Command to terminate program received
+Closing program
